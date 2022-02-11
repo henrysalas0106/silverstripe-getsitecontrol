@@ -4,7 +4,7 @@
 
 ## Installation
 
-* composer require henrysalas0106/getsitecontrol
+* composer require henrysalas0106/silverstripe-getsitecontrol (pending)
 
 ## Setting up the module
 
