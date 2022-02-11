@@ -1,0 +1,9 @@
+---
+name: henrysalas0106-getsitecontrol
+---
+Silverstripe\SiteConfig\SiteConfig:
+  extensions:
+    - GetSiteControlExtension
+Silverstripe\CMS\Model\SiteTree:
+  extensions:
+    - GetSiteControl
